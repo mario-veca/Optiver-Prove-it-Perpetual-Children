@@ -32,7 +32,7 @@ In my solution:
 - I derive a **recurrence relation** for the probability of eventual termination.
 - I **prove rigorously** that the process must always end.
 
-The full proof is provided in the **[`Perpetual_children-2.pdf`](./Perpetual_children-2.pdf)** document.
+The full proof is provided in the **[`Perpetual_children.pdf`](./Perpetual_children.pdf)** document.
 
 ---
 
